@@ -20,3 +20,59 @@ body {
 }
 
 /* Escreva a partir daqui */
+
+.cu {
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 100px;
+}
+
+.butao {
+    padding: 150px;
+    margin: 0 50px;
+    text-align: center;
+    background-color: #004587;
+    color: white
+}
+
+.rel {
+    position: relative;
+}
+
+.futer {
+    position: absolute;
+    bottom: 10px;
+    right: 0;
+}
+
+.butao2 {
+    padding: 100px 150px;
+    margin: 0 50px;
+    text-align: center;
+    background-color: #004587;
+    color: white
+}
+
+.navbar {
+    display: flex;
+    opacity: 80%;
+    max-height: 150px;
+    margin: 0 50px;
+    color: #CCCCCC;
+    justify-content: space-between;
+}
+
+.img {
+    opacity: 100%;
+    margin: 0 100px;
+}
+
+.fds {
+    padding: 50px 100px;
+    margin: 0 50px;
+    text-align: center;
+    background-color: #004587;
+    color: white
+}
